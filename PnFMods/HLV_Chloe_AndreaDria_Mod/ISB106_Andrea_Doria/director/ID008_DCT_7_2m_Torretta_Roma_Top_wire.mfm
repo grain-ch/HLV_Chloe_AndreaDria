@@ -1,0 +1,10 @@
+<ID008_DCT_7_2m_Torretta_Roma_Top_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Chloe_AndreaDria_Mod/ISB106_Andrea_Doria/director/ID008_DCT_7_2m_Torretta_Roma_Top_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Chloe_AndreaDria_Mod/ISB106_Andrea_Doria/director/ID008_DCT_7_2m_Torretta_Roma_Top_mg.dds	</Texture>
+	</property>
+</ID008_DCT_7_2m_Torretta_Roma_Top_wire.mfm>
