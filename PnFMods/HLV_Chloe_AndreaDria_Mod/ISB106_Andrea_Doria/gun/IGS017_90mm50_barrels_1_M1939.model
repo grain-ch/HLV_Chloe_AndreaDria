@@ -1,7 +1,6 @@
 <IGS017_90mm50_barrels_1_M1939.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Chloe_AndreaDria_Mod/ISB106_Andrea_Doria/gun/lods/IGS017_90mm50_barrels_1_M1939_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Chloe_AndreaDria_Mod/ISB106_Andrea_Doria/gun/IGS017_90mm50_barrels_1_M1939	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Chloe_AndreaDria_Mod/ISB106_Andrea_Doria/gun/IGS017_90mm50_barrels_1_M1939.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </IGS017_90mm50_barrels_1_M1939.model>
